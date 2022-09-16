@@ -316,7 +316,7 @@ while iniciar_trivia == True: #  Mientras iniciar_trivia sea True, repite:
    puntaje += 1000
    print("\n\033[32mMuy bien tu nivel de pelea se incrementa\033[39m", nombre, "!\n")
 
-# Pregunta 9
+# Preguntaa 9
   print("9) ¿De que planeta es picoro?\n")
 
 
@@ -534,3 +534,38 @@ while iniciar_trivia == True: #  Mientras iniciar_trivia sea True, repite:
   if repetir_trivia != "si":  # != significa "distinto"
    print("\nGracias por jugar mi trivia Guerrero")
    iniciar_trivia = False  # Cambiamos el valor de iniciar_trivia a False para evitar que se repita.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
