@@ -1,2 +1,2 @@
 # Mi-trivia-Silabuz
-5 septiembre Trivia Preguntas sobre el anime dragon ball
+hola este es mi codigo sobre mi trivia, pueden sugerirme que más cosas agregar
